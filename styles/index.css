@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+body {
+    background: linear-gradient(to left, rgb(6, 6, 250), rgb(0, 255, 157));
+    color: rgb(0, 0, 0);
+}
+h1 {
+    background-color: rgb(245, 245, 245);
+    font-family: 'Amatic SC';
+    font-size: 89px;
+}
+h2 {
+    font-family: 'Sacramento';
+    font-size: 49px;
+    background-color: rgb(255, 210, 202);
+}
